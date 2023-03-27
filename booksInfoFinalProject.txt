@@ -1,0 +1,11 @@
+14441,Becoming a Critical Thinker,Sarah Birrell:Emma Bell,50,4,1
+25203,Evolutionary Processes,Daniel A. Levinthal, 40.5,7,0
+34524,International Business Strategy,Daniel A. Levinthal:Bent Flyvbjerg,70,0,2
+82120,Java Language,Van de Ven,88,10,0
+43521,Python for Everyone,Cay Horstman:Rance Necaise,89.5,10,0
+67534,Exploring Data in Python,Charless Russell,67.3,5,0
+63254,The C Programming Language,Brian Kernighan:Dennis Ritchie,45.6,4,0
+32147,Learn C the Hard Way,Zed Shaw,20.9,0,2
+20014,Learn Python 3 the Hard Way,Zed Shaw,24.9,7,1
+99887,After lives,Abdulrazak Gurnah,100,6,0
+33221,Atomic Habits,James Clear:Jon,220,10,0
